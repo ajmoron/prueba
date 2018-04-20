@@ -2,7 +2,7 @@
 package modelo;
 
 /**
- *
+ * hola
  * @author Carlos
  */
 public class Cliente {
